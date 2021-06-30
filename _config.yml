@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Simran Singh Gulati"
   avatar           : "profile.png"
-  bio              : "Data Science student at Monash University"
+  bio              : "Data Scientist, Engineer"
   location         : "Melbourne, Australia"
-  employer         : "Monash University"
+  employer         : 
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "sgul0007@student.monash.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,17 +99,17 @@ author:
   github           : "simransinghgulati"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/sammy.ssg/"
+  instagram        : "sammy.ssg"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/simransinghgulati/"
+  linkedin         : "simransinghgulati"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
