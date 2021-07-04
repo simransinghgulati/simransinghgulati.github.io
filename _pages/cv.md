@@ -29,7 +29,7 @@ Work experience
 * June 2017: Content Marketing Intern
   * Data Resolve Technologies
   * Domain: Employee Monitoring and InfoSec
-  * Manager: Kriti Sarda
+  * Manager: Ms. Kriti Sarda
   
 Skills
 ======
