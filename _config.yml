@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Simran Singh"
+title                    : "Simran Singh Gulati"
 title_separator          : "-"
-name                     : &name "Simran Singh"
-description              : &description ""
+name                     : &name "Simran Singh Gulati"
+description              : &description "Simran's Person Website"
 url                      : https://simransinghgulati.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "simransinghgulati.github.io"
