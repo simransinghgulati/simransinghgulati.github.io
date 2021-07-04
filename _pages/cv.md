@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Tech in IT, SRM University, 2019
-* M.S. Data Science, Monash University, 2021
+* M.S. in Data Science, Monash University, 2021
 
 Work experience
 ======
