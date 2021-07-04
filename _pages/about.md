@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello World"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm Simran, a master's student at Monash Uni. I am majoring in Data Science and my thesis is focalised around Time Series forecasting. I am enthusiastic about the use of deep learning in Finance and Natural Language Processing.
+
+I hold a strong grasp over programming and mathematics. I have worked with Python, R, SQL, Tableau, Kafka and Spark for processing, analysing and visualising data from a bunch of sources. This extends from structured datasets to sensors data, textual data, graphical data and big data. As much as I fancy working with neural networks, I strongly advocate the use of simple-statistical methods.
+
+I am graduating in December 2021 and looking for full time roles in Data Science and related domains.
 
 A data-driven personal website
 ======
