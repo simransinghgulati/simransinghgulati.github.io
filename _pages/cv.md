@@ -38,7 +38,7 @@ Skills
   * Time Series Forecasting
   * Natural Language Processing
   * Stream Processing of Big Data
-* R, SQL
+* R, SQL, Git
 
 Publications
 ======
