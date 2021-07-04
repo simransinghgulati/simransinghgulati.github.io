@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech in IT, SRM University, 2019
+* M.S. Data Science, Monash University, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2021: Research Assistant
+  * Monash University
+  * Project: Time Series Forecasting
+  * Supervisor: Dr. Christoph Bergmeir
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2018: Machine Learning Intern
+  * National University of Singapore
+  * Project: Sentiment Analysis
+  * Supervisor: Dr. Tan Wee Kek
+
+* June 2017: Content Marketing Intern
+  * National University of Singapore
+  * Project: Sentiment Analysis
+  * Supervisor: Dr. Tan Wee Kek
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Machine Learning
+  * Time Series Forecasting
+  * Natural Language Processing
+  * Stream Processing of Big Data
+* R, SQL
 
 Publications
 ======
