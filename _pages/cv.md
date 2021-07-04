@@ -27,9 +27,9 @@ Work experience
   * Supervisor: Dr. Tan Wee Kek
 
 * June 2017: Content Marketing Intern
-  * National University of Singapore
-  * Project: Sentiment Analysis
-  * Supervisor: Dr. Tan Wee Kek
+  * Data Resolve Technologies
+  * Domain: Employee Monitoring and InfoSec
+  * Manager: Kriti Sarda
   
 Skills
 ======
